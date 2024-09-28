@@ -1,4 +1,4 @@
-module github.com/caddy-dns/acmeproxy
+module github.com/firegore/acmeproxy
 
 go 1.22.0
 
